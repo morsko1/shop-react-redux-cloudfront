@@ -43,3 +43,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Project URL
+
+S3 static hosting (manual): [http://my-store-manual.s3-website-eu-west-1.amazonaws.com/](http://my-store-manual.s3-website-eu-west-1.amazonaws.com/)  
+
+S3 + CloudFront (manual): [https://d9s5nz2cq2lct.cloudfront.net/](https://d9s5nz2cq2lct.cloudfront.net/)  
+
+serverless automated hosting: [https://dnpro3vei17bd.cloudfront.net/](https://dnpro3vei17bd.cloudfront.net/)
